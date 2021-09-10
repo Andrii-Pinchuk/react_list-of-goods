@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,UACE,gBACF,CAEA,gBACE,WACF","file":"main.8d7389b2.chunk.css","sourcesContent":[".App__btn {\n  margin-left: 35px;\n}\n\n.goods__buttons {\n  margin: 20px;\n}\n"]}
